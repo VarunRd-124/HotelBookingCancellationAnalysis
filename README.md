@@ -45,7 +45,7 @@ Some of the **Suggestions** which i could give to the hotels in order to reduce 
 
 - Hotel reservation cancellations and the factors affecting them
 
-- You can perform various actions and analysis on the dataset
+- We can perform various actions and analysis on the dataset
 
 - There are multiple categories with different values in the dataset.
 
@@ -59,6 +59,5 @@ Some of the **Suggestions** which i could give to the hotels in order to reduce 
 
 - The average daily rate is influencing the cancellation rates.
 
-- Significant impact on hotel earning
 
 
